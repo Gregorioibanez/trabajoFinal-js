@@ -4,27 +4,27 @@
         "nombre": "Estucado Veneciano",
         "precio": "2500",
         "stock": "Stock 1000 m2",
-        "img": "/img/estucado-veneciano.jpg"
+        "img": "img/estucado-veneciano.jpg"
     },
     {
         "id": "#103",
         "nombre": "Estucado Clasico",
         "precio": "1800",
         "stock": "Stock 1500 m2",
-        "img": "/img/estucado-clasico.jpg"
+        "img": "img/estucado-clasico.jpg"
     },
     {
         "id": "#107",
         "nombre": "Microcemento Alisado",
         "precio": "2000",
         "stock": "Stock 1800 m2",
-        "img": "/img/microcemento-alisado.jpg"
+        "img": "img/microcemento-alisado.jpg"
     },
     {
         "id": "#110",
         "nombre": "Estucado en Mesadas y Muebles",
         "precio": "3000",
         "stock": "Stock 500 m2",
-        "img": "/img/estucado-muebles.jpg"
+        "img": "img/estucado-muebles.jpg"
     }
 ]
